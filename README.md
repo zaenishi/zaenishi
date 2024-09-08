@@ -1,4 +1,4 @@
-# Hi there, I'm Zaenishi! 👋
+# Hi there, I'm zaenishi 👋
 
 ![Welcome Banner](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
@@ -39,4 +39,4 @@
 - Collecting interesting tech gadgets 💾
 
 ---
-⭐️ From [Zaenishi](https://github.com/zaenishi)
+⭐️ From [zaenishi](https://github.com/zaenishi)
