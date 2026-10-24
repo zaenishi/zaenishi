@@ -1,23 +1,24 @@
-# Hai, Nama Saya Zaenishi 🍄
 
-Selamat datang di profil GitHub saya! 👋  
-Saya seorang developer yang sedang menjelajahi dunia pemrograman dan teknologi. Jika Anda tertarik dengan proyek saya, feel free untuk mengeksplorasi!
+# Hi, I'm Zaenishi 👋
 
-## 📈 Statistik GitHub Saya
-![Zaenishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaenishi&show_icons=true&theme=tokyonight)
+### Developer & Digital Creator
 
-## 🔧 Teknologi yang Saya Gunakan
-- JavaScript (Node.js, Express.js)
-- HTML, CSS, React
-- MongoDB
+I enjoy building digital projects and learning through hands-on development.
 
-## 💬 Fun Facts
-- Saya menyukai jamur semenjak sd, karna bentuknya yang lucu!
-- Selalu mencoba teknologi baru setiap bulan.
+- 💻 Exploring web development and JavaScript
+- 🤖 Building bots, APIs, and digital tools
+- 🎮 Developing game
+- 🛠️ Learning by experimenting, debugging, and improving projects
+- 🌐 Portfolio: https://zaenishi-me.vercel.app
 
-## 🌐 Temui Saya di
-- [Website Pribadi](https://zaenishi.xyz)
-- [Twitter](https://twitter.com/zaenishi)
-- [LinkedIn](https://linkedin.com/in/zaenishi)
+### Tech Stack
 
-Terima kasih telah berkunjung, jangan ragu untuk menghubungi saya jika tertarik berkolaborasi!
+JavaScript · Node.js · HTML · CSS · Git · GitHub
+
+### Featured Projects
+
+Explore my repositories to see what I'm building and learning.
+
+---
+
+*Building, learning, and improving one project at a time.*
